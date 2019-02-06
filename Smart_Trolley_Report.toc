@@ -1,6 +1,6 @@
 \contentsline {section}{\numberline {1}Introduction}{1}{section.1}
-\contentsline {section}{\numberline {2}Literature Survey}{3}{section.2}
-\contentsline {subsection}{\numberline {2.1}Barcode Recognition}{3}{subsection.2.1}
+\contentsline {section}{\numberline {2}Literature Survey}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Barcode Recognition}{4}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Feature Calculation}{4}{subsection.2.2}
 \contentsline {subsection}{\numberline {2.3}Deblurring Techniques}{5}{subsection.2.3}
 \contentsline {subsection}{\numberline {2.4}Load Sensor}{5}{subsection.2.4}
@@ -8,6 +8,6 @@
 \contentsline {section}{\numberline {3}Methodology and Implementation}{6}{section.3}
 \contentsline {subsection}{\numberline {3.1}Block Diagram}{6}{subsection.3.1}
 \contentsline {subsection}{\numberline {3.2}Hardware Architecture}{6}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Software Architecture}{7}{subsection.3.3}
-\contentsline {section}{\numberline {4}Results and Discussion}{9}{section.4}
+\contentsline {subsection}{\numberline {3.3}Software Architecture}{8}{subsection.3.3}
+\contentsline {section}{\numberline {4}Results and Discussion}{10}{section.4}
 \contentsline {section}{\numberline {5}Conclusion and Future Works}{10}{section.5}
