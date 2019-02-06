@@ -1,0 +1,13 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Literature Survey}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Barcode Recognition}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Feature Calculation}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Deblurring Techniques}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Load Sensor}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{Object Detection}{section.2}% 7
+\BOOKMARK [1][-]{section.3}{Methodology and Implementation}{}% 8
+\BOOKMARK [2][-]{subsection.3.1}{Block Diagram}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.2}{Hardware Architecture}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.3}{Software Architecture}{section.3}% 11
+\BOOKMARK [1][-]{section.4}{Results and Discussion}{}% 12
+\BOOKMARK [1][-]{section.5}{Conclusion and Future Works}{}% 13

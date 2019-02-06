@@ -1,0 +1,10 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Smart_Trolley_Report.aux
+The style file: unsrt.bst
+I couldn't open database file Smart_Trolley.bib
+---line 62 of file Smart_Trolley_Report.aux
+ : \bibdata{Smart_Trolley
+ :                       }
+I'm skipping whatever remains of this command
+I found no database files---while reading file Smart_Trolley_Report.aux
+Warning--I didn't find a database entry for "zhang2012research"
+(There were 2 error messages)
