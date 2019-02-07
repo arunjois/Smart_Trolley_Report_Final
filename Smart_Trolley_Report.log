@@ -1,48 +1,45 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  6 FEB 2019 22:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6975) (preloaded format=pdflatex 2019.2.6)  7 FEB 2019 18:06
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
-**Smart_Trolley_Report.tex
-(./Smart_Trolley_Report.tex
-LaTeX2e <2017-04-15>
-Babel <3.18> and hyphenation patterns for 5 language(s) loaded.
-(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+**./Smart_Trolley_Report.tex
+(Smart_Trolley_Report.tex
+LaTeX2e <2018-12-01>
+(/home/arun/.miktex/texmfs/install/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/home/arun/.miktex/texmfs/install/tex/latex/base/size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
-\c@part=\count79
-\c@section=\count80
-\c@subsection=\count81
-\c@subsubsection=\count82
-\c@paragraph=\count83
-\c@subparagraph=\count84
-\c@figure=\count85
-\c@table=\count86
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2010/09/12 v5.6 Page Geometry
+(/home/arun/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+(/home/arun/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+(/home/arun/.miktex/texmfs/install/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+(/home/arun/.miktex/texmfs/install/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(/home/arun/.miktex/texmfs/install/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count87
-\Gm@cntv=\count88
-\c@Gm@tempcnt=\count89
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
 \Gm@bindingoffset=\dimen103
 \Gm@wd@mp=\dimen104
 \Gm@odd@mp=\dimen105
@@ -52,65 +49,61 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen109
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+
+(/home/arun/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg))
+(/home/arun/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/home/arun/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+(/home/arun/.miktex/texmfs/install/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(/home/arun/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+(/home/arun/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen111
 \Gin@req@width=\dimen112
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+(/home/arun/.miktex/texmfs/install/tex/latex/oberdiek/epstopdf.sty
 Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(/home/arun/.miktex/texmfs/install/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(/home/arun/.miktex/texmfs/install/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+(/home/arun/.miktex/texmfs/install/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+(/home/arun/.miktex/texmfs/install/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(/home/arun/.miktex/texmfs/install/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/home/arun/.miktex/texmfs/install/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(/home/arun/.miktex/texmfs/install/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+(/home/arun/.miktex/texmfs/install/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(/home/arun/.miktex/texmfs/install/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
-)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+))))
+(/home/arun/.miktex/texmfs/install/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -123,82 +116,81 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-)))
-(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+))
+(/home/arun/.miktex/texmfs/install/tex/latex/tools/verbatim.sty
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks16
 \verbatim@line=\toks17
 \verbatim@in@stream=\read1
 )
-(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
-Package: enumitem 2011/09/28 v3.5.2 Customized lists
+(/home/arun/.miktex/texmfs/install/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/02/04 v3.8 Customized lists
 \labelindent=\skip43
 \enit@outerparindent=\dimen113
 \enit@toks=\toks18
-\enit@inbox=\box26
-\enitdp@description=\count90
+\enit@inbox=\box27
+\enit@count@id=\count91
+\enitdp@description=\count92
 )
-(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
-Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+(/home/arun/.miktex/texmfs/install/tex/latex/multirow/multirow.sty
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
 \multirow@colwidth=\skip44
-\multirow@cntb=\count91
+\multirow@cntb=\count93
 \multirow@dima=\skip45
 \bigstrutjot=\dimen114
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
-Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+(/home/arun/.miktex/texmfs/install/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
 
-(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+(/home/arun/.miktex/texmfs/install/tex/latex/tools/array.sty
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
 \col@sep=\dimen115
+\ar@mcellbox=\box28
 \extrarowheight=\dimen116
 \NC@list=\toks19
 \extratabsurround=\skip46
 \backup@length=\skip47
+\ar@cellbox=\box29
 )
 \TX@col@width=\dimen117
 \TX@old@table=\dimen118
 \TX@old@col=\dimen119
 \TX@target=\dimen120
 \TX@delta=\dimen121
-\TX@cols=\count92
+\TX@cols=\count94
 \TX@ftn=\toks20
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+(/home/arun/.miktex/texmfs/install/tex/latex/graphics/epsfig.sty
 Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
 \epsfxsize=\dimen122
 \epsfysize=\dimen123
 )
-(/home/arun/texmf/tex/latex/local/slashbox.sty
+(/home/arun/.miktex/texmfs/install/tex/latex/slashbox/slashbox.sty
 slashbox style by K.Yasuoka, May 1993.
-\@slashboxa=\box27
-\@slashboxb=\box28
-\@slashboxc=\box29
-\@slashboxwd=\count93
-\@slashboxht=\count94
+\@slashboxa=\box30
+\@slashboxb=\box31
+\@slashboxc=\box32
+\@slashboxwd=\count95
+\@slashboxht=\count96
 \@slashsepl=\dimen124
 \@slashsepr=\dimen125
-) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+) (/home/arun/.miktex/texmfs/install/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count95
+\c@float@type=\count97
 \float@exts=\toks21
-\float@box=\box30
+\float@box=\box33
 \@float@everytoks=\toks22
-\@floatcapt=\box31
+\@floatcapt=\box34
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+(/home/arun/.miktex/texmfs/install/tex/latex/graphics/lscape.sty
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+(/home/arun/.miktex/texmfs/install/tex/latex/caption/caption.sty
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 67.
+(/home/arun/.miktex/texmfs/install/tex/latex/caption/caption3.sty
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
 \captionmargin=\dimen126
 \captionmargin@=\dimen127
 \captionwidth=\dimen128
@@ -207,13 +199,14 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \caption@parindent=\dimen131
 \caption@hangindent=\dimen132
 )
-\c@ContinuedFloat=\count96
+\c@caption@flags=\count98
+\c@ContinuedFloat=\count99
 Package caption Info: float package is loaded.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/home/arun/.miktex/texmfs/install/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(/home/arun/.miktex/texmfs/install/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks23
 \symAMSa=\mathgroup4
@@ -221,50 +214,50 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2017/09/02 v2.17a AMS math features
+(/home/arun/.miktex/texmfs/install/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
 \@mathmargin=\skip48
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/home/arun/.miktex/texmfs/install/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/home/arun/.miktex/texmfs/install/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks24
 \ex@=\dimen133
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/home/arun/.miktex/texmfs/install/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen134
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/home/arun/.miktex/texmfs/install/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count97
-LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count98
-\leftroot@=\count99
-LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count100
-\DOTSCASE@=\count101
-LaTeX Info: Redefining \ldots on input line 472.
-LaTeX Info: Redefining \dots on input line 475.
-LaTeX Info: Redefining \cdots on input line 596.
-\Mathstrutbox@=\box32
-\strutbox@=\box33
+\inf@bad=\count100
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count101
+\leftroot@=\count102
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count103
+\DOTSCASE@=\count104
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box35
+\strutbox@=\box36
 \big@size=\dimen135
-LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count102
-\c@MaxMatrixCols=\count103
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count105
+\c@MaxMatrixCols=\count106
 \dotsspace@=\muskip10
-\c@parentequation=\count104
-\dspbrk@lvl=\count105
+\c@parentequation=\count107
+\dspbrk@lvl=\count108
 \tag@help=\toks25
-\row@=\count106
-\column@=\count107
-\maxfields@=\count108
+\row@=\count109
+\column@=\count110
+\maxfields@=\count111
 \andhelp@=\toks26
 \eqnshift@=\dimen136
 \alignsep@=\dimen137
@@ -276,36 +269,36 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \multlinegap=\skip49
 \multlinetaggap=\skip50
 \mathdisplay@stack=\toks28
-LaTeX Info: Redefining \[ on input line 2817.
-LaTeX Info: Redefining \] on input line 2818.
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+(/home/arun/.miktex/texmfs/install/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
+(/home/arun/.miktex/texmfs/install/tex/latex/graphics/rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+(/home/arun/.miktex/texmfs/install/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\c@r@tfl@t=\count109
+\c@r@tfl@t=\count112
 \rotFPtop=\skip51
 \rotFPbot=\skip52
-\rot@float@box=\box34
+\rot@float@box=\box37
 \rot@mess@toks=\toks29
 )
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathpazo.sty
+(/home/arun/.miktex/texmfs/install/tex/latex/psnfss/mathpazo.sty
 Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
 \symupright=\mathgroup6
 )
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+(/home/arun/.miktex/texmfs/install/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/home/arun/.miktex/texmfs/install/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+(/home/arun/.miktex/texmfs/install/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -334,60 +327,62 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+(/home/arun/.miktex/texmfs/install/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
 \@linkdim=\dimen142
-\Hy@linkcounter=\count110
-\Hy@pagecounter=\count111
+\Hy@linkcounter=\count113
+\Hy@pagecounter=\count114
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+(/home/arun/.miktex/texmfs/install/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count112
+\Hy@SavedSpaceFactor=\count115
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+(/home/arun/.miktex/texmfs/install/tex/latex/00miktex/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Hyper figures OFF on input line 4509.
-Package hyperref Info: Link nesting OFF on input line 4514.
-Package hyperref Info: Hyper index ON on input line 4517.
-Package hyperref Info: Plain pages OFF on input line 4524.
-Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4762.
-\c@Hy@tempcnt=\count113
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count116
 
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+(/home/arun/.miktex/texmfs/install/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5115.
+LaTeX Info: Redefining \url on input line 5125.
 \XeTeXLinkMargin=\dimen143
-\Fld@menulength=\count114
+\Fld@menulength=\count117
 \Field@Width=\dimen144
 \Fld@charsize=\dimen145
-Package hyperref Info: Hyper figures OFF on input line 6369.
-Package hyperref Info: Link nesting OFF on input line 6374.
-Package hyperref Info: Hyper index ON on input line 6377.
-Package hyperref Info: backreferencing OFF on input line 6384.
-Package hyperref Info: Link coloring OFF on input line 6389.
-Package hyperref Info: Link coloring with OCG OFF on input line 6394.
-Package hyperref Info: PDF/A mode OFF on input line 6399.
-LaTeX Info: Redefining \ref on input line 6439.
-LaTeX Info: Redefining \pageref on input line 6443.
-\Hy@abspage=\count115
-\c@Item=\count116
-\c@Hfootnote=\count117
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count118
+\c@Item=\count119
+\c@Hfootnote=\count120
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
-\Fld@listcount=\count118
-\c@bookmark@seq@number=\count119
+(/home/arun/.miktex/texmfs/install/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count121
+\c@bookmark@seq@number=\count122
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+(/home/arun/.miktex/texmfs/install/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
@@ -400,7 +395,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 31.
 LaTeX Warning: Unused global option(s):
     [times,1pt].
 
-(./Smart_Trolley_Report.aux
+(Smart_Trolley_Report.aux
 
 LaTeX Warning: Label `fig:success_barcode' multiply defined.
 
@@ -422,7 +417,7 @@ LaTeX Font Info:    ... okay on input line 43.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
 LaTeX Font Info:    ... okay on input line 43.
 LaTeX Font Info:    Try loading font information for OT1+ppl on input line 43.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ppl.fd
+ (/home/arun/.miktex/texmfs/install/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
 *geometry* driver: auto-detecting
@@ -459,101 +454,101 @@ File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(/home/arun/.miktex/texmfs/install/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count120
+\scratchcounter=\count123
 \scratchdimen=\dimen146
-\scratchbox=\box35
-\nofMPsegments=\count121
-\nofMParguments=\count122
+\scratchbox=\box38
+\nofMPsegments=\count124
+\nofMParguments=\count125
 \everyMPshowfont=\toks30
-\MPscratchCnt=\count123
+\MPscratchCnt=\count126
 \MPscratchDim=\dimen147
-\MPnumerator=\count124
-\makeMPintoPDFobject=\count125
+\MPnumerator=\count127
+\makeMPintoPDFobject=\count128
 \everyMPtoPDFconversion=\toks31
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\AtBeginShipoutBox=\box36
- (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+\AtBeginShipoutBox=\box39
+ (/home/arun/.miktex/texmfs/install/tex/latex/graphics/color.sty
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(/home/arun/.miktex/texmfs/install/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
 Package hyperref Info: Link coloring ON on input line 43.
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/home/arun/.miktex/texmfs/install/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+(/home/arun/.miktex/texmfs/install/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count126
+\c@section@level=\count129
 )
 LaTeX Info: Redefining \ref on input line 43.
 LaTeX Info: Redefining \pageref on input line 43.
 LaTeX Info: Redefining \nameref on input line 43.
 
-(./Smart_Trolley_Report.out) (./Smart_Trolley_Report.out)
+(Smart_Trolley_Report.out) (Smart_Trolley_Report.out)
 \@outlinefile=\write3
 \openout3 = `Smart_Trolley_Report.out'.
 
- (./title.tex
+ (title.tex
 LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <16> not available
-(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 5.
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 5.
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 3.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 3.
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlzplm.fd
+(/home/arun/.miktex/texmfs/install/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 5.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 3.
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omszplm.fd
+(/home/arun/.miktex/texmfs/install/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 5.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 3.
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxzplm.fd
+(/home/arun/.miktex/texmfs/install/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 5.
+(Font)              scaled to size 12.50409pt on input line 3.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 5.
+(Font)              scaled to size 9.37807pt on input line 3.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 5.
+(Font)              scaled to size 7.29405pt on input line 3.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 12.50409pt on input line 5.
+(Font)              scaled to size 12.50409pt on input line 3.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 5.
+(Font)              scaled to size 9.37807pt on input line 3.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 5.
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 5.
+(Font)              scaled to size 7.29405pt on input line 3.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 3.
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+(/home/arun/.miktex/texmfs/install/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 
 LaTeX Warning: No \author given.
 
 LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <14> not available
-(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 13.
-<VTU_Logo.png, id=56, 321.2pt x 321.2pt>
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 11.
+<VTU_Logo.png, id=55, 321.2pt x 321.2pt>
 File: VTU_Logo.png Graphic file (type png)
 <use VTU_Logo.png>
-Package pdftex.def Info: VTU_Logo.png  used on input line 37.
+Package pdftex.def Info: VTU_Logo.png  used on input line 35.
 (pdftex.def)             Requested size: 94.67476pt x 102.62436pt.
-) [1
+[1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./VTU_Logo.png>]
-(./Declaration.tex) [2] (./Approval.tex
-<figures/BMS_Logo.png, id=72, 84.4245pt x 77.1975pt>
+{/home/arun/.miktex/texmfs/data/pdftex/config/pdftex.map} <./VTU_Logo.png>])
+[2] (Declaration.tex) [3] (Approval.tex
+<figures/BMS_Logo.png, id=75, 84.4245pt x 77.1975pt>
 File: figures/BMS_Logo.png Graphic file (type png)
 <use figures/BMS_Logo.png>
 Package pdftex.def Info: figures/BMS_Logo.png  used on input line 13.
@@ -562,9 +557,9 @@ LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ppl/b/n' tried instead on input line 18.
 
 Overfull \hbox (7.68146pt too wide) in paragraph at lines 18--19
-\OT1/ppl/m/n/10 work car-ried out by \OT1/ppl/b/n/10 Achuthananda M P \OT1/ppl/
-m/n/10 (USN:1BM18EC300) and \OT1/ppl/b/n/10 Harikr-ishna D M \OT1/ppl/m/n/10 (U
-SN:1BM18EC301)
+\OT1/ppl/m/n/10 work carried out by \OT1/ppl/b/n/10 Achuthananda M P \OT1/ppl/m
+/n/10 (USN:1BM18EC300) and \OT1/ppl/b/n/10 Harikrishna D M \OT1/ppl/m/n/10 (USN
+:1BM18EC301)
  []
 
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
@@ -584,40 +579,40 @@ Overfull \hbox (29.71756pt too wide) in paragraph at lines 23--28
 [][] 
  []
 
-) [3 <./figures/BMS_Logo.png>] (./Ack.tex) [4] (./Abstract.tex
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ô in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ô in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ì in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ô in font pplr7t!
-) [5]
+) [4 <./figures/BMS_Logo.png>] (Ack.tex) [5] (Abstract.tex
+Overfull \hbox (17.03116pt too wide) in paragraph at lines 7--8
+\OT1/ppl/m/n/10 already automated their manufacturing units and assembly units,
+ drastically reducing costs and increasing
+ []
+
+)
+Overfull \hbox (12.50055pt too wide) in paragraph at lines 13--63
+[]\OT1/ppl/m/n/10 While the above problem can be dealt with temporarily by dist
+racting the consumers with strategically
+ []
+
+[6]
 LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ppl/b/n' tried instead on input line 66.
-
-(./Smart_Trolley_Report.toc)
+ (Smart_Trolley_Report.toc)
 \tf@toc=\write4
 \openout4 = `Smart_Trolley_Report.toc'.
 
- [6] (./Smart_Trolley_Report.lof)
+ [7] (Smart_Trolley_Report.lof)
 \tf@lof=\write5
 \openout5 = `Smart_Trolley_Report.lof'.
 
- [7]
-(./Smart_Trolley_Report.lot)
+ [8]
+(Smart_Trolley_Report.lot)
 \tf@lot=\write6
 \openout6 = `Smart_Trolley_Report.lot'.
 
- [8]
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ô in font pplr7t!
+ [9]
+Overfull \hbox (12.50055pt too wide) in paragraph at lines 87--88
+[]\OT1/ppl/m/n/10 While the above problem can be dealt with temporarily by dist
+racting the consumers with strategically
+ []
+
 LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ppl/b/n' tried instead on input line 94.
 File: figures/BMS_Logo.png Graphic file (type png)
@@ -625,10 +620,9 @@ File: figures/BMS_Logo.png Graphic file (type png)
 Package pdftex.def Info: figures/BMS_Logo.png  used on input line 102.
 (pdftex.def)             Requested size: 84.42427pt x 77.1973pt.
 
-
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/Fig_Barcode.jpg, id=138, 207.02344pt x 130.98938pt>
+<figures/Fig_Barcode.jpg, id=141, 207.02344pt x 130.98938pt>
 File: figures/Fig_Barcode.jpg Graphic file (type jpg)
 <use figures/Fig_Barcode.jpg>
 Package pdftex.def Info: figures/Fig_Barcode.jpg  used on input line 111.
@@ -644,11 +638,17 @@ l.127
        [1]
 LaTeX Font Info:    Try loading font information for OMS+ppl on input line 131.
 
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsppl.fd
+ (/home/arun/.miktex/texmfs/install/tex/latex/psnfss/omsppl.fd
 File: omsppl.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 131.
+
+Overfull \hbox (5.25188pt too wide) in paragraph at lines 132--133
+[]\OT1/ppl/m/n/10 Analyzing and manipulating the image which includes data comp
+ression and image enhancement
+ []
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
@@ -656,13 +656,6 @@ been already used, duplicate ignored
 l.140 \item V
              isualization - Observe the objects that are not visible. [2 <./fig
 ures/Fig_Barcode.jpg>]
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ì in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ì in font pplr7t!
-
 
 LaTeX Warning: Citation `zhang2012research' on page 3 undefined on input line 1
 76.
@@ -673,56 +666,74 @@ been already used, duplicate ignored
                    \relax 
 l.177 
        [3]
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ú in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ù in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ô in font pplr7t!
+Overfull \hbox (7.20076pt too wide) in paragraph at lines 180--181
+\OT1/ppl/m/n/10 to be robust against dirt, badly printed barcodes or illuminati
+on changes. So, they computed illuminance
+ []
+
+
+Overfull \hbox (22.18025pt too wide) in paragraph at lines 190--191
+[]\OT1/ppl/m/n/10 In their paper titled \Normalized Mutual Information Feature 
+Selection" (Published in IEEE transactions
+ []
+
+
+Overfull \hbox (0.57184pt too wide) in paragraph at lines 190--191
+\OT1/ppl/m/n/10 methods based on Mutual Information (MI) as a measure of releva
+nce and redundancy among features.
+ []
+
+
+Overfull \hbox (25.65051pt too wide) in paragraph at lines 192--193
+\OT1/ppl/m/n/10 defined parameter. In addition, NMIFS is combined with a geneti
+c algorithm to form a hybrid filter/wrapper
+ []
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.193 
        [4]
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ú in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ù in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ú in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ù in font pplr7t!
+Overfull \hbox (4.45009pt too wide) in paragraph at lines 200--201
+[]\OT1/ppl/m/n/10 In their paper titled \Recursive implementation of the Gaussi
+an filter" (Published in Delft University
+ []
+
+
+Overfull \hbox (3.77144pt too wide) in paragraph at lines 200--201
+\OT1/ppl/m/n/10 of Technology, NL-2628 CJ Delft, Netherlands on 29 September 19
+94) [2], they have proposed a recursive
+ []
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.211 
-       [5]
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ú in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ù in font pplr7t!
-<figures/Fig_Block_Diagram.png, id=169, 533.5935pt x 319.1925pt>
+l.209 T
+       he load sensor, a capacitor type displacement or load sensor includes...
+[5]
+Overfull \hbox (14.81027pt too wide) in paragraph at lines 209--211
+\OT1/ppl/m/n/10 positioned to face the first electrode without making contact t
+herewith. The second electrode is constituted
+ []
+
+
+Overfull \hbox (2.06158pt too wide) in paragraph at lines 214--215
+\OT1/ppl/m/n/10 Using cameras for the recognition of barcodes demand the camera
+s to run continuously while scanning.
+ []
+
+<figures/Fig_Block_Diagram.png, id=171, 533.5935pt x 319.1925pt>
 File: figures/Fig_Block_Diagram.png Graphic file (type png)
 <use figures/Fig_Block_Diagram.png>
 Package pdftex.def Info: figures/Fig_Block_Diagram.png  used on input line 227.
 
 (pdftex.def)             Requested size: 533.5922pt x 319.19171pt.
 
-
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/Fig_HR_S04.png, id=170, 230.0595pt x 523.35526pt>
+<figures/Fig_HR_S04.png, id=172, 230.0595pt x 523.35526pt>
 File: figures/Fig_HR_S04.png Graphic file (type png)
 <use figures/Fig_HR_S04.png>
 Package pdftex.def Info: figures/Fig_HR_S04.png  used on input line 240.
@@ -730,94 +741,32 @@ Package pdftex.def Info: figures/Fig_HR_S04.png  used on input line 240.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ò in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ô in font pplr7t!
 pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.247 
        [6]
-<figures/Fig_SW_Implementation.png, id=174, 368.577pt x 479.391pt>
+<figures/Fig_SW_Implementation.png, id=176, 368.577pt x 479.391pt>
 File: figures/Fig_SW_Implementation.png Graphic file (type png)
 <use figures/Fig_SW_Implementation.png>
 Package pdftex.def Info: figures/Fig_SW_Implementation.png  used on input line 
 285.
 (pdftex.def)             Requested size: 368.57608pt x 479.38983pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ò in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ô in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ò in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ô in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ò in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ô in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ò in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ô in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ò in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ô in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ò in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ô in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ò in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ô in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ò in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ô in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ò in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ô in font pplr7t!
 pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.293 
-       [7 <./figures/Fig_Block_Diagram.png>]
-<figures/Fig_Check_Bit.png, id=180, 198.7425pt x 130.98938pt>
+l.289 	\end{figure}
+                    [7 <./figures/Fig_Block_Diagram.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/Fig_Check_Bit.png, id=182, 198.7425pt x 130.98938pt>
 File: figures/Fig_Check_Bit.png Graphic file (type png)
 <use figures/Fig_Check_Bit.png>
 Package pdftex.def Info: figures/Fig_Check_Bit.png  used on input line 300.
 (pdftex.def)             Requested size: 198.742pt x 130.98904pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -827,7 +776,7 @@ been already used, duplicate ignored
                    \relax 
 l.319 \end{equation}
                      [8 <./figures/Fig_HR_S04.png>]
-<figures/Fig_Gaussian_Filter.png, id=187, 404.26031pt x 253.69781pt>
+<figures/Fig_Gaussian_Filter.png, id=189, 404.26031pt x 253.69781pt>
 File: figures/Fig_Gaussian_Filter.png Graphic file (type png)
 <use figures/Fig_Gaussian_Filter.png>
 Package pdftex.def Info: figures/Fig_Gaussian_Filter.png  used on input line 32
@@ -837,8 +786,13 @@ Package pdftex.def Info: figures/Fig_Gaussian_Filter.png  used on input line 32
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[9 <./figures/Fig_SW_Implementation.png>]
-<figures/Fig_Successful_Barcode.png, id=195, 634.37pt x 467.7475pt>
+pdfTeX warning (ext4): destination with the same identifier (name{page.9}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.342 
+       [9 <./figures/Fig_SW_Implementation.png>]
+<figures/Fig_Successful_Barcode.png, id=196, 634.37pt x 467.7475pt>
 File: figures/Fig_Successful_Barcode.png Graphic file (type png)
 <use figures/Fig_Successful_Barcode.png>
 Package pdftex.def Info: figures/Fig_Successful_Barcode.png  used on input line
@@ -848,7 +802,7 @@ Package pdftex.def Info: figures/Fig_Successful_Barcode.png  used on input line
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<figures/Fig_Unsuccessful_Barcode.png, id=196, 511.9125pt x 323.2075pt>
+<figures/Fig_Unsuccessful_Barcode.png, id=197, 511.9125pt x 323.2075pt>
 File: figures/Fig_Unsuccessful_Barcode.png Graphic file (type png)
 <use figures/Fig_Unsuccessful_Barcode.png>
 Package pdftex.def Info: figures/Fig_Unsuccessful_Barcode.png  used on input li
@@ -857,21 +811,14 @@ ne 358.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ò in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ô in font pplr7t!
-[10 <./figures/Fig_Check_Bit.png>]
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ò in font pplr7t!
-Missing character: There is no ‚ in font pplr7t!
-Missing character: There is no Ä in font pplr7t!
-Missing character: There is no ô in font pplr7t!
- [11 <./figures/Fig_Gaussian_Filter.png> <./figures/Fig_Successful_Barcode.png>
-] (./Smart_Trolley_Report.bbl
+
+Overfull \hbox (4.53091pt too wide) in paragraph at lines 373--374
+[]\OT1/ppl/m/n/10 Using OpenCV and python: OpenCV (Open Source Computer Vision)
+ is a library of programming
+ []
+
+[10 <./figures/Fig_Check_Bit.png>] [11 <./figures/Fig_Gaussian_Filter.png> <./f
+igures/Fig_Successful_Barcode.png>] (Smart_Trolley_Report.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
@@ -879,7 +826,7 @@ LaTeX Warning: Empty `thebibliography' environment on input line 3.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 387.
  [12 <./figures/Fig_Unsuccessful_Barcode.png>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 387.
- (./Smart_Trolley_Report.aux)
+ (Smart_Trolley_Report.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 387.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 387.
 Package rerunfilecheck Info: File `Smart_Trolley_Report.out' has not changed.
@@ -894,24 +841,23 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 387.
  ) 
 Here is how much of TeX's memory you used:
- 8491 strings out of 494880
- 128370 string characters out of 6179600
- 214175 words of memory out of 5000000
- 11563 multiletter control sequences out of 15000+600000
- 31836 words of font info for 88 fonts, out of 8000000 for 9000
- 36 hyphenation exceptions out of 8191
- 42i,15n,39p,1203b,455s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/mathpazo/fplmri.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palat
-ino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.
-pfb>
-Output written on Smart_Trolley_Report.pdf (20 pages, 844577 bytes).
+ 8565 strings out of 494865
+ 130670 string characters out of 3178378
+ 223094 words of memory out of 3000000
+ 11964 multiletter control sequences out of 15000+200000
+ 32511 words of font info for 89 fonts, out of 3000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 42i,15n,39p,1206b,455s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/home/arun/.miktex/texmfs/install/fonts/enc/dvips/base/8r.enc}</home/arun/.m
+iktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/arun/.mikt
+ex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/arun/.miktex
+/texmfs/install/fonts/type1/public/mathpazo/fplmri.pfb></home/arun/.miktex/texm
+fs/install/fonts/type1/urw/palatino/uplb8a.pfb></home/arun/.miktex/texmfs/insta
+ll/fonts/type1/urw/palatino/uplr8a.pfb></home/arun/.miktex/texmfs/install/fonts
+/type1/urw/palatino/uplri8a.pfb>
+Output written on Smart_Trolley_Report.pdf (21 pages, 866572 bytes).
 PDF statistics:
- 255 PDF objects out of 1000 (max. 8388607)
- 207 compressed objects within 3 object streams
+ 254 PDF objects out of 1000 (max. 8388607)
  58 named destinations out of 1000 (max. 500000)
  155 words of extra memory for PDF output out of 10000 (max. 10000000)
 
